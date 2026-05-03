@@ -4,7 +4,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/qiukuip/hello"
+	"github.com/qiukuip/go-hello"
 )
 
 var name string
