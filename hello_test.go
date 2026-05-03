@@ -1,8 +1,9 @@
-package hello
+package hello_test
 
 import (
 	"fmt"
 	"testing"
+
 	"github.com/qiukuip/hello"
 )
 
